@@ -5,10 +5,8 @@ Teste estágio desenvolvimento
   ![alt text](1.png)
  
 ## Questão 2
-  Criar uma escada com #. Entrada um n (número de degraus).
-  
-  Exemplo: 
-  
+  Crie uma escada formada por '#' de altura n. O último nível deve ter tamanho n, e o primeiro, tamanho n.__
+  Exemplo:__
   ![alt text](2.png)
 
 ## Questão 3

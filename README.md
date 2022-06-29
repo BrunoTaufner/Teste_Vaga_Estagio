@@ -7,12 +7,7 @@ Teste estágio desenvolvimento
 ## Questão 2
   Criar uma escada com #. Entrada um n (número de degraus).
   Exemplo: 
-    Entrada: 4
-    Saída:
-    #
-    ##
-    ###
-    ####
+  ![alt text](2.png)
 
 ## Questão 3
   ![alt text](3.png)
